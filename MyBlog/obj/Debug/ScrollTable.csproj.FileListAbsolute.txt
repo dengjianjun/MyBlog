@@ -1,0 +1,6 @@
+X:\Project\MyBlog\MyBlog\bin\MyBlog.dll.config
+X:\Project\MyBlog\MyBlog\bin\MyBlog.dll
+X:\Project\MyBlog\MyBlog\bin\MyBlog.pdb
+X:\Project\MyBlog\MyBlog\obj\Debug\ScrollTable.csprojResolveAssemblyReference.cache
+X:\Project\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+X:\Project\MyBlog\MyBlog\obj\Debug\MyBlog.pdb

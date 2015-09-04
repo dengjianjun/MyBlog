@@ -1,0 +1,34 @@
+﻿.del-person {
+	cursor: pointer;
+	color: #0000cd;
+}
+
+#dvThead {
+	background-color: #f0f0f0;
+}
+
+#dvThead .table {
+	margin-bottom: 0px;
+}
+
+#dvThead .table thead{
+	background-color: #f0f0f0;
+	text-align: center;
+}
+
+#dvThead .table thead th{
+	text-align: center;
+}
+
+#dvTbody {
+	height: 370px;
+	overflow: auto;
+}
+
+#dvTbody>table>tbody {
+	height: 360px;
+}
+
+.padding-right-17 {
+	padding-right: 17px;
+}
